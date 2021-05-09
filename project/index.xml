@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kaitlyn Richardson</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Kaitlyn Richardson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Exploratory Data Analysis</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>knitr::opts_chunk$set(echo = TRUE, eval = TRUE, fig.align = &amp;quot;center&amp;quot;, warning = F, message = F, tidy=TRUE, tidy.opts=list(width.cutoff=60), R.options=list(max.print=100)) library(plyr)
+0. Introduction For project one, I chose to play with Spotify data and Austin’s weather data. Initially, I choose the Spotify data because I was really interested in what all I had been listening to throughout the pandemic. In the data, I could see what artist I listened to on a certain day, the song I listened to, what time it played, and how many milliseconds I played them.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Modeling, Testing, and Predicting</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description>#0: Data Description My project 2 data is a cross section of patients who visit a physician’s office and the emergency room. I chose this data because I thought the numerical data including patient’s age, sex, race, family income, office visits, ER emissions, hospitalizations and number of chronic illnesses would be interesting to manipulate. Naturally, I have certain biases of how the healthcare system works, and due to the large sample size (4406 observations), I thought this would be a wonderful way of measuring those biases.</description>
+    </item>
+    
+  </channel>
+</rss>

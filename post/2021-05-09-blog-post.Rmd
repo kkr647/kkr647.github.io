@@ -1,0 +1,14 @@
+---
+title: "Blog Post"
+author: "Kaitlyn Richardson"
+date: '2021-05-09'
+slug: Blog Post
+categories: []
+tags: []
+description: ' '
+---
+Hey guys! Check out my work:[Link to project 1](/project/project1/)
+
+[Link to google](https://www.google.com)
+
+Also, more importantly, check out my dog!![](/post/2021-05-09-blog-post_files/Screen Shot 2021-05-09 at 6.43.50 PM.png)
